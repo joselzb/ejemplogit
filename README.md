@@ -5,7 +5,7 @@ Ejemplo de Git
 An h1 header
 ============
 
-Paragraphs are separated by a blank line.
+Jose Luis Zambrano.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
