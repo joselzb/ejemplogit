@@ -5,7 +5,9 @@ Ejemplo de Git
 An h1 header
 ============
 
-Jose Luis Zambrano.
++ Jose Luis Zambrano.
++ Daniel Villanueva
+
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
